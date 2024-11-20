@@ -1,0 +1,15 @@
+{
+  "port": "8080",
+  "name": "Ajiro API",
+  "name2": "Ajiro Rest API",
+  "description": "Rest API by Lance Ajiro",
+  "email": "lanceaaronwazzup@gmail.com",
+  "number": "N/A",
+  "birthday": "2005-05-17",
+  "birthday2": "May 17, 2005",
+  "location": "Calauag, Quezon, Philippines",
+  "facebook": "https://www.facebook.com/lance.cochangco",
+  "github": "https://github.com/lancecochangco",
+  "twitter": "https://x.com/lanceajiro",
+  "linkedin": "N/A"
+}

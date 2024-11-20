@@ -1,0 +1,43 @@
+{
+  "name": "ajiro-rest-api",
+  "version": "1.0.0",
+  "description": "A simple rest api by AjiroDesu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lanceajiro/Ajiro-Api.git"
+  },
+  "keywords": [],
+  "author": "AjiroDesu",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "api-dylux": "^1.8.5",
+    "axios": "^1.6.8",
+    "betabotz-tools": "^0.0.7",
+    "body-parser": "^1.20.3",
+    "canvas": "^2.11.2",
+    "cheerio": "^1.0.0-rc.12",
+    "cobalt-api": "^1.0.0",
+    "compression": "^1.7.4",
+    "cors": "^2.8.5",
+    "discord-card-canvas": "^1.4.4",
+    "duck-duck-scrape": "^2.2.5",
+    "express": "^4.19.2",
+    "fs-extra": "^11.2.0",
+    "g4f": "^1.4.6",
+    "kleur": "^4.1.5",
+    "knights-canvas": "^1.3.7-a",
+    "mal-scraper": "^2.13.2",
+    "millify": "^6.1.0",
+    "moment-timezone": "^0.5.45",
+    "nexo-aio-downloader": "^1.4.1",
+    "node-fetch": "^2.6.7",
+    "ssl-express-www": "^3.2.1",
+    "unlimited-ai": "^2.0.2"
+  }
+}
